@@ -26,7 +26,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.em
 import androidx.compose.ui.unit.sp
-import com.fadymarty.ui_kit.common.format
+import com.fadymarty.ui_kit.common.util.format
 import com.fadymarty.ui_kit.common.theme.PropSwipeTheme
 import com.fadymarty.ui_kit.common.theme.SfProDisplay
 import com.fadymarty.ui_kit.presentation.components.buttons.ButtonWithIcon
