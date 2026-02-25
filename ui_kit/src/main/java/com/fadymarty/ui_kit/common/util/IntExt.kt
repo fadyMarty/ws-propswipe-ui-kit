@@ -1,4 +1,4 @@
-package com.fadymarty.ui_kit.common
+package com.fadymarty.ui_kit.common.util
 
 import java.text.DecimalFormat
 
